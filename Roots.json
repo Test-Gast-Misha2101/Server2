@@ -1,0 +1,34 @@
+{
+  "Roots": {
+    "Ban": {
+      "IP": {
+        "visual": {
+          "all_not_my": false,
+          "root": false,
+          "see": false,
+          "my": false
+        }
+      },
+      "pr": {
+        "visual": {
+          "all_not_my": false,
+          "root": false,
+          "see": false,
+          "my": false
+        },
+        "add": false,
+        "delete": false
+      },
+      "History": {
+        "visual": {
+          "all_not_my": false,
+          "root": false,
+          "see": false,
+          "my": false
+        },
+        "redact": false,
+        "delete": false
+      }
+    }
+  }
+}
