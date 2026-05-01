@@ -6,9 +6,7 @@
       "r_root": {
         "set": {
           "set": true,
-          "black_list": [
-            
-          ],
+          "black_list": [],
           "white_list": [
             "all"
           ],
@@ -16,9 +14,7 @@
           "up": false
         }
         "get_my": {
-          "black_list": [
-            
-          ],
+          "black_list": [],
           "white_list": [
             "all"
           ],
@@ -61,9 +57,7 @@
       "r_root": {
         "set": {
           "set": false,
-          "black_list": [
-            
-          ],
+          "black_list": [],
           "white_list": [
             "all"
           ],
@@ -71,9 +65,7 @@
           "up": true
         }
         "get_my": {
-          "black_list": [
-            
-          ],
+          "black_list": [],
           "white_list": [
             "all"
           ],
