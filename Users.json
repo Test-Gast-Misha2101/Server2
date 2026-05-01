@@ -1,7 +1,39 @@
 {
   "Admin":[
     "IFEESTRWKQZFMOCUI5HDMVBSKZBUIUCHHU6T2PI=",
-    "H#IXdGc+|uH!wCvHZwL"
+    "H#IXdGc+|uH!wCvHZwL",
+    "Roots": {
+      "interface": false,
+      "r_root": false,
+      "IP": {
+        "visual": {
+          "all_not_my": false,
+          "root": false,
+          "see": false,
+          "my": false
+        }
+      },
+      "pr": {
+        "visual": {
+          "all_not_my": false,
+          "root": false,
+          "see": false,
+          "my": false
+        },
+        "add": false,
+        "delete": false
+      },
+      "History": {
+        "visual": {
+          "all_not_my": false,
+          "root": false,
+          "see": false,
+          "my": false
+        },
+        "redact": false,
+        "delete": false
+      }
+    }
   ],
   "Users":[
     ["IFEESTRWKQZFMOCUI5HDMVBSKZBUIUCHHU6T2PI=", "H#IXdGc+|uH!wCvHZwLx"]
