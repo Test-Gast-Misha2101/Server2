@@ -1,6 +1,7 @@
 {
   "Roots": {
     "Ban": {
+      "interface": false,
       "r_root": false,
       "IP": {
         "visual": {
