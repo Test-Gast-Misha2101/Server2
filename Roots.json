@@ -1,63 +1,62 @@
 {
   "Roots": {
     "Admin": {
-        "level_root": 0
-        "interface": false,
-        "r_root": {
-          "set": {
-            "set": false,
-            "black_list": [
-              
-            ],
-            "white_list": [
-              "all"
-            ],
-            "button": true,
-            "up": true
-          }
-          "get_my": {
-            "black_list": [
-              
-            ],
-            "white_list": [
-              "all"
-            ],
-            "button": true,
-            "up": true
-          }
-        },
-        "IP": {
-          "visual": {
-            "all_not_my": false,
-            "root": false,
-            "see": false,
-            "my": false
-          }
-        },
-        "pr": {
-          "visual": {
-            "all_not_my": false,
-            "root": false,
-            "see": false,
-            "my": false
-          },
-          "add": false,
-          "delete": false
-        },
-        "History": {
-          "visual": {
-            "all_not_my": false,
-            "root": false,
-            "see": false,
-            "my": false
-          },
-          "redact": false,
-          "delete": false
+      "level_root": -1,
+      "interface": true,
+      "r_root": {
+        "set": {
+          "set": true,
+          "black_list": [
+            
+          ],
+          "white_list": [
+            "all"
+          ],
+          "button": false,
+          "up": false
         }
+        "get_my": {
+          "black_list": [
+            
+          ],
+          "white_list": [
+            "all"
+          ],
+          "button": true,
+          "up": true
+        }
+      },
+      "IP": {
+        "visual": {
+          "all_not_my": true,
+          "root": true,
+          "see": true,
+          "my": true
+        }
+      },
+      "pr": {
+        "visual": {
+          "all_not_my": true,
+          "root": true,
+          "see": true,
+          "my": true
+        },
+        "add": true,
+        "delete": true
+      },
+      "History": {
+        "visual": {
+          "all_not_my": true,
+          "root": true,
+          "see": true,
+          "my": true
+        },
+        "redact": true,
+        "delete": true
       }
     }
     "Ban": {
-      "level_root": 0
+      "level_root": 0,
       "interface": false,
       "r_root": {
         "set": {
