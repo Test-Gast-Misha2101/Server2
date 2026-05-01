@@ -1,8 +1,87 @@
 {
   "Roots": {
+    "Admin": {
+        "level_root": 0
+        "interface": false,
+        "r_root": {
+          "set": {
+            "set": false,
+            "black_list": [
+              
+            ],
+            "white_list": [
+              "all"
+            ],
+            "button": true,
+            "up": true
+          }
+          "get_my": {
+            "black_list": [
+              
+            ],
+            "white_list": [
+              "all"
+            ],
+            "button": true,
+            "up": true
+          }
+        },
+        "IP": {
+          "visual": {
+            "all_not_my": false,
+            "root": false,
+            "see": false,
+            "my": false
+          }
+        },
+        "pr": {
+          "visual": {
+            "all_not_my": false,
+            "root": false,
+            "see": false,
+            "my": false
+          },
+          "add": false,
+          "delete": false
+        },
+        "History": {
+          "visual": {
+            "all_not_my": false,
+            "root": false,
+            "see": false,
+            "my": false
+          },
+          "redact": false,
+          "delete": false
+        }
+      }
+    }
     "Ban": {
+      "level_root": 0
       "interface": false,
-      "r_root": false,
+      "r_root": {
+        "set": {
+          "set": false,
+          "black_list": [
+            
+          ],
+          "white_list": [
+            "all"
+          ],
+          "button": true,
+          "up": true
+        }
+        "get_my": {
+          "black_list": [
+            
+          ],
+          "white_list": [
+            "all"
+          ],
+          "button": true,
+          "up": true
+        }
+      },
       "IP": {
         "visual": {
           "all_not_my": false,
