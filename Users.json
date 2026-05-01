@@ -1,40 +1,7 @@
 {
   "Admin":[
     "IFEESTRWKQZFMOCUI5HDMVBSKZBUIUCHHU6T2PI=",
-    "H#IXdGc+|uH!wCvHZwL",
-    "Roots": {
-      "get_ban": false,
-      "interface": true,
-      "r_root": true,
-      "IP": {
-        "visual": {
-          "all_not_my": true,
-          "root": true,
-          "see": true,
-          "my": true
-        }
-      },
-      "pr": {
-        "visual": {
-          "all_not_my": true,
-          "root": true,
-          "see": true,
-          "my": true
-        },
-        "add": true,
-        "delete": true
-      },
-      "History": {
-        "visual": {
-          "all_not_my": true,
-          "root": true,
-          "see": true,
-          "my": true
-        },
-        "redact": true,
-        "delete": true
-      }
-    }
+    "H#IXdGc+|uH!wCvHZwL"
   ],
   "Users":[
     ["IFEESTRWKQZFMOCUI5HDMVBSKZBUIUCHHU6T2PI=", "H#IXdGc+|uH!wCvHZwLx"]
