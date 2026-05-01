@@ -3,35 +3,36 @@
     "IFEESTRWKQZFMOCUI5HDMVBSKZBUIUCHHU6T2PI=",
     "H#IXdGc+|uH!wCvHZwL",
     "Roots": {
-      "interface": false,
-      "r_root": false,
+      "get_ban": false,
+      "interface": true,
+      "r_root": true,
       "IP": {
         "visual": {
-          "all_not_my": false,
-          "root": false,
-          "see": false,
-          "my": false
+          "all_not_my": true,
+          "root": true,
+          "see": true,
+          "my": true
         }
       },
       "pr": {
         "visual": {
-          "all_not_my": false,
-          "root": false,
-          "see": false,
-          "my": false
+          "all_not_my": true,
+          "root": true,
+          "see": true,
+          "my": true
         },
-        "add": false,
-        "delete": false
+        "add": true,
+        "delete": true
       },
       "History": {
         "visual": {
-          "all_not_my": false,
-          "root": false,
-          "see": false,
-          "my": false
+          "all_not_my": true,
+          "root": true,
+          "see": true,
+          "my": true
         },
-        "redact": false,
-        "delete": false
+        "redact": true,
+        "delete": true
       }
     }
   ],
