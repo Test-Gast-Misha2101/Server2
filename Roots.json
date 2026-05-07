@@ -25,6 +25,12 @@
       "IP": {
         "visual": {
           "all_not_my": true,
+          "all_min_my": true,
+          "all_big_my": true,
+          "white_list": [
+            "all"
+          ],
+          "black_list": [],
           "root": true,
           "see": true,
           "my": true
@@ -33,6 +39,12 @@
       "pr": {
         "visual": {
           "all_not_my": true,
+          "all_min_my": true,
+          "all_big_my": true,
+          "white_list": [
+            "all"
+          ],
+          "black_list": [],
           "root": true,
           "see": true,
           "my": true
@@ -43,6 +55,12 @@
       "History": {
         "visual": {
           "all_not_my": true,
+          "all_min_my": true,
+          "all_big_my": true,
+          "white_list": [
+            "all"
+          ],
+          "black_list": [],
           "root": true,
           "see": true,
           "my": true
@@ -76,6 +94,12 @@
       "IP": {
         "visual": {
           "all_not_my": false,
+          "all_min_my": true,
+          "all_big_my": true,
+          "white_list": [
+            "all"
+          ],
+          "black_list": [],
           "root": false,
           "see": false,
           "my": false
@@ -84,6 +108,12 @@
       "pr": {
         "visual": {
           "all_not_my": false,
+          "all_min_my": true,
+          "all_big_my": true,
+          "white_list": [
+            "all"
+          ],
+          "black_list": [],
           "root": false,
           "see": false,
           "my": false
@@ -94,6 +124,12 @@
       "History": {
         "visual": {
           "all_not_my": false,
+          "all_min_my": true,
+          "all_big_my": true,
+          "white_list": [
+            "all"
+          ],
+          "black_list": [],
           "root": false,
           "see": false,
           "my": false
