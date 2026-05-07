@@ -96,10 +96,10 @@
           "all_not_my": false,
           "all_min_my": true,
           "all_big_my": true,
-          "white_list": [
+          "white_list": [],
+          "black_list": [
             "all"
           ],
-          "black_list": [],
           "root": false,
           "see": false,
           "my": false
@@ -110,10 +110,10 @@
           "all_not_my": false,
           "all_min_my": true,
           "all_big_my": true,
-          "white_list": [
+          "white_list": [],
+          "black_list": [
             "all"
           ],
-          "black_list": [],
           "root": false,
           "see": false,
           "my": false
@@ -126,10 +126,10 @@
           "all_not_my": false,
           "all_min_my": true,
           "all_big_my": true,
-          "white_list": [
+          "white_list": [],
+          "black_list": [
             "all"
           ],
-          "black_list": [],
           "root": false,
           "see": false,
           "my": false
