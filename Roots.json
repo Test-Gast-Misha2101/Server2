@@ -2,7 +2,7 @@
   "Roots": {
     "Admin": {
       "level_root": -1,
-      "interface": true,
+      "interface": false,
       "r_root": {
         "set": {
           "set": true,
