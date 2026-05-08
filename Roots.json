@@ -2,7 +2,7 @@
   "Roots": {
     "Admin": {
       "level_root": -1,
-      "interface": false,
+      "interface": true,
       "r_root": {
         "set": {
           "set": true,
@@ -71,7 +71,7 @@
     },
     "Ban": {
       "level_root": 0,
-      "interface": true,
+      "interface": false,
       "r_root": {
         "set": {
           "set": false,
