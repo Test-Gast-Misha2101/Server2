@@ -101,7 +101,7 @@
             "all"
           ],
           "root": false,
-          "see": true,
+          "see": false,
           "my": false
         }
       },
