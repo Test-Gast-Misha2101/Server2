@@ -71,7 +71,7 @@
     },
     "Ban": {
       "level_root": 0,
-      "interface": false,
+      "interface": true,
       "r_root": {
         "set": {
           "set": false,
