@@ -93,7 +93,7 @@
       },
       "IP": {
         "visual": {
-          "all_not_my": false,
+          "all_not_my": true,
           "all_min_my": false,
           "all_big_my": false,
           "white_list": [],
@@ -102,7 +102,7 @@
           ],
           "root": false,
           "see": true,
-          "my": true
+          "my": false
         }
       },
       "pr": {
