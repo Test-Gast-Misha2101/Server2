@@ -100,7 +100,7 @@
           "black_list": [
             "all"
           ],
-          "root": false,
+          "root": true,
           "see": true,
           "my": false
         }
