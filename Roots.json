@@ -15,11 +15,10 @@
         },
         "get_my": {
           "black_list": [],
-          "white_list": [
-            "all"
-          ],
-          "button": true,
-          "up": true
+          "white_list": [],
+          "button": false,
+          "eq":true
+          "up": false
         }
       },
       "IP": {
@@ -75,12 +74,12 @@
       "r_root": {
         "set": {
           "set": false,
-          "black_list": [],
-          "white_list": [
+          "black_list": [
             "all"
           ],
-          "button": true,
-          "up": true
+          "white_list": [],
+          "button": false,
+          "up": false
         },
         "get_my": {
           "black_list": [],
@@ -88,34 +87,35 @@
             "all"
           ],
           "button": true,
-          "up": true
+          "up": true,
+          "eq": true,
         }
       },
       "IP": {
         "visual": {
           "all_not_my": false,
-          "all_min_my": true,
-          "all_big_my": true,
+          "all_min_my": false,
+          "all_big_my": false,
           "white_list": [],
           "black_list": [
             "all"
           ],
           "root": false,
           "see": true,
-          "my": false
+          "my": true
         }
       },
       "pr": {
         "visual": {
-          "all_not_my": true,
-          "all_min_my": true,
-          "all_big_my": true,
+          "all_not_my": false,
+          "all_min_my": false,
+          "all_big_my": false,
           "white_list": [],
           "black_list": [
             "all"
           ],
           "root": false,
-          "see": true,
+          "see": false,
           "my": false
         },
         "add": false,
@@ -124,8 +124,8 @@
       "History": {
         "visual": {
           "all_not_my": false,
-          "all_min_my": true,
-          "all_big_my": true,
+          "all_min_my": false,
+          "all_big_my": false,
           "white_list": [],
           "black_list": [
             "all"
