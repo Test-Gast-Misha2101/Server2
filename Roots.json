@@ -97,9 +97,7 @@
           "all_min_my": true,
           "all_big_my": true,
           "white_list": [],
-          "black_list": [
-            "all"
-          ],
+          "black_list": [],
           "root": true,
           "see": true,
           "my": true
@@ -111,7 +109,9 @@
           "all_min_my": false,
           "all_big_my": false,
           "white_list": [],
-          "black_list": [],
+          "black_list": [
+            "all"
+          ],
           "root": false,
           "see": false,
           "my": false
