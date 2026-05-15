@@ -111,9 +111,7 @@
           "all_min_my": false,
           "all_big_my": false,
           "white_list": [],
-          "black_list": [
-            "all"
-          ],
+          "black_list": [],
           "root": false,
           "see": false,
           "my": false
