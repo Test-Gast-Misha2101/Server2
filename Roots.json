@@ -107,7 +107,7 @@
       },
       "pr": {
         "visual": {
-          "all_not_my": false,
+          "all_not_my": true,
           "all_min_my": true,
           "all_big_my": true,
           "white_list": [],
