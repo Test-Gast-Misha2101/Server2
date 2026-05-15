@@ -102,7 +102,7 @@
           ],
           "root": true,
           "see": true,
-          "my": false
+          "my": true
         }
       },
       "pr": {
