@@ -32,7 +32,7 @@
           "black_list": [],
           "root": true,
           "see": true,
-          "my": true
+          "my": false
         }
       },
       "pr": {
