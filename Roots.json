@@ -96,7 +96,9 @@
           "all_not_my": true,
           "all_min_my": true,
           "all_big_my": true,
-          "white_list": [],
+          "white_list": [
+            "20753610-6D1B-1260-103A-74D02B8FBE51"
+          ],
           "black_list": [
             "20753610-6D1B-1260-103A-74D02B8FBE51"
           ],
