@@ -113,7 +113,7 @@
             "all"
           ],
           "root": false,
-          "see": false,
+          "see": true,
           "my": false
         },
         "add": false,
