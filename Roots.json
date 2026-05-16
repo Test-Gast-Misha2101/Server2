@@ -105,16 +105,14 @@
       },
       "pr": {
         "visual": {
-          "all_not_my": false,
-          "all_min_my": false,
-          "all_big_my": false,
+          "all_not_my": true,
+          "all_min_my": true,
+          "all_big_my": true,
           "white_list": [],
-          "black_list": [
-            "all"
-          ],
-          "root": false,
+          "black_list": [],
+          "root": true,
           "see": true,
-          "my": false
+          "my": true
         },
         "add": false,
         "delete": false
